@@ -21,7 +21,7 @@
     <ClCompile Include="src\Entities\Bat.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Ball.cpp">
+    <ClCompile Include="src\Entities\Ball.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +29,7 @@
     <ClInclude Include="src\Entities\Bat.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="Ball.h">
+    <ClInclude Include="src\Entities\Ball.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>

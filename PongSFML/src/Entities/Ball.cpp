@@ -6,6 +6,10 @@ Ball::Ball(float startX, float startY) : m_Position(startX, startY)
 	m_Shape.setPosition(m_Position);
 }
 
+Ball::~Ball()
+{
+}
+
 void Ball::ReboundSides()
 {
 	m_DirectionX = -m_DirectionX;
