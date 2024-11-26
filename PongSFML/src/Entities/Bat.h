@@ -14,7 +14,6 @@ public:
 	void StopRight();
 	void StopLeft();
 
-
 private:
 	sf::Vector2f m_Position;
 	sf::RectangleShape m_Shape;
